@@ -1,0 +1,30 @@
+'Work':
+  'title': 'Work'
+  'paths': [
+    '/Users/dyankov/Documents/Work'
+  ]
+'salesrobot_dev':
+  'title': 'salesrobot_dev'
+  'paths': [
+    '/Users/dyankov/Documents/Work/salesrobot/dev'
+  ]
+'salesrobot_dist':
+  'title': 'salesrobot_dist'
+  'paths': [
+    '/Users/dyankov/Documents/Work/salesrobot/dist'
+  ]
+'remote-sync-dev':
+  'title': 'remote-sync-dev'
+  'paths': [
+    '/Users/dyankov/.atom/packages/remote-sync-dev'
+  ]
+'wp_plugins':
+  'title': 'wp_plugins'
+  'paths': [
+    '/Users/dyankov/Documents/Work/codecanyon/_wordpress/wp-content/plugins'
+  ]
+'webcraft':
+  'title': 'webcraft'
+  'paths': [
+    '/Users/dyankov/Documents/Work/webcraft/production_site/public'
+  ]

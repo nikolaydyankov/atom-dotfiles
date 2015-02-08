@@ -1,0 +1,29 @@
+"*":
+  editor:
+    invisibles: {}
+    showIndentGuide: true
+    tabLength: 4
+    lineHeight: 1.6
+    fontSize: 12
+  core:
+    disabledPackages: [
+      "SFTP-deployment"
+      "remote-sync-dev"
+    ]
+    themes: [
+      "seti-ui"
+      "seti-syntax"
+    ]
+  "exception-reporting":
+    userId: "9d6c705b-5469-1a07-303b-e283338e3955"
+  welcome:
+    showOnStartup: false
+  "autoclose-html": {}
+  "remote-sync": {}
+  "autocomplete-plus":
+    confirmCompletion: "enter"
+  "remote-sync-dev": {}
+  minimap:
+    adjustMinimapWidthToSoftWrap: false
+  "project-manager": {}
+  "atom-terminal": {}
