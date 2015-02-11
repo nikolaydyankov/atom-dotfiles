@@ -13,11 +13,6 @@
   'paths': [
     '/Users/dyankov/Documents/Work/salesrobot/dist'
   ]
-'remote-sync-dev':
-  'title': 'remote-sync-dev'
-  'paths': [
-    '/Users/dyankov/.atom/packages/remote-sync-dev'
-  ]
 'wp_plugins':
   'title': 'wp_plugins'
   'paths': [
@@ -27,4 +22,9 @@
   'title': 'webcraft'
   'paths': [
     '/Users/dyankov/Documents/Work/webcraft/production_site/public'
+  ]
+'salesrobot_beta':
+  'title': 'salesrobot_beta'
+  'paths': [
+    '/Users/dyankov/Documents/Work/salesrobot/beta'
   ]

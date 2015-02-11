@@ -30,3 +30,12 @@
     });
 })( jQuery, window, document );
 """
+
+'.source.css':
+  'Transitions':
+    'prefix': 'trans'
+    'body': """
+transition: all 0.33s cubic-bezier(.55,0,.1,1);
+-moz-transition: all 0.33s cubic-bezier(.55,0,.1,1);
+-webkit-transition: all 0.33s cubic-bezier(.55,0,.1,1);
+"""

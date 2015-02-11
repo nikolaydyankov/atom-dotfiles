@@ -4,7 +4,7 @@
     showIndentGuide: true
     tabLength: 4
     lineHeight: 1.6
-    fontSize: 12
+    fontSize: 13
   core:
     disabledPackages: [
       "SFTP-deployment"
