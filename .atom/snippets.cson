@@ -39,3 +39,26 @@ transition: all 0.33s cubic-bezier(.55,0,.1,1);
 -moz-transition: all 0.33s cubic-bezier(.55,0,.1,1);
 -webkit-transition: all 0.33s cubic-bezier(.55,0,.1,1);
 """
+  'No Select':
+    'prefix': 'noselect'
+    'body': """
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+"""
+
+'.text.html':
+  'HTML5 Template':
+    'prefix': 'htmltpl'
+    'body': """
+<!doctype html>
+<html lang="">
+<head>
+
+</head>
+<body unresolved>
+    
+</body>
+</html>
+"""

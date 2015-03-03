@@ -11,8 +11,8 @@
       "remote-sync-dev"
     ]
     themes: [
-      "seti-ui"
-      "seti-syntax"
+      "atom-dark-ui"
+      "base16-tomorrow-dark-theme"
     ]
   "exception-reporting":
     userId: "9d6c705b-5469-1a07-303b-e283338e3955"

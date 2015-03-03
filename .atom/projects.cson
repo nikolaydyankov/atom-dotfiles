@@ -28,3 +28,17 @@
   'paths': [
     '/Users/dyankov/Documents/Work/salesrobot/beta'
   ]
+'atom':
+  'title': 'atom'
+  'paths': [
+    '/Users/dyankov/.atom'
+  ]
+'root':
+  'title': 'root'
+  'paths': [
+    '/Users/dyankov/Documents/Work/codecanyon/_wordpress/wp-content/plugins'
+    '/Users/dyankov/Documents/Work/codecanyon'
+    '/Users/dyankov/Documents/Work/webcraft/production_site/public'
+    '/Users/dyankov/Documents/Work/salesrobot/dev'
+    '/Users/dyankov/Documents/Work/salesrobot/dist'
+  ]
