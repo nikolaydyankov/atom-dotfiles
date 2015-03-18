@@ -3,42 +3,18 @@
   'paths': [
     '/Users/dyankov/Documents/Work'
   ]
-'salesrobot_dev':
-  'title': 'salesrobot_dev'
-  'paths': [
-    '/Users/dyankov/Documents/Work/salesrobot/dev'
-  ]
-'salesrobot_dist':
-  'title': 'salesrobot_dist'
-  'paths': [
-    '/Users/dyankov/Documents/Work/salesrobot/dist'
-  ]
-'wp_plugins':
-  'title': 'wp_plugins'
-  'paths': [
-    '/Users/dyankov/Documents/Work/codecanyon/_wordpress/wp-content/plugins'
-  ]
-'webcraft':
-  'title': 'webcraft'
+'Webcraft':
+  'title': 'Webcraft'
   'paths': [
     '/Users/dyankov/Documents/Work/webcraft/production_site/public'
   ]
-'salesrobot_beta':
-  'title': 'salesrobot_beta'
+'SalesRobot - Dev':
+  'title': 'SalesRobot - Dev'
   'paths': [
-    '/Users/dyankov/Documents/Work/salesrobot/beta'
-  ]
-'atom':
-  'title': 'atom'
-  'paths': [
-    '/Users/dyankov/.atom'
-  ]
-'root':
-  'title': 'root'
-  'paths': [
-    '/Users/dyankov/Documents/Work/codecanyon/_wordpress/wp-content/plugins'
-    '/Users/dyankov/Documents/Work/codecanyon'
-    '/Users/dyankov/Documents/Work/webcraft/production_site/public'
     '/Users/dyankov/Documents/Work/salesrobot/dev'
+  ]
+'SalesRobot - Dist':
+  'title': 'SalesRobot - Dist'
+  'paths': [
     '/Users/dyankov/Documents/Work/salesrobot/dist'
   ]
